@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">cartas</string>
+    <string name="jugadores">Nº Players</string>
+    <string name="cartas">Nº Cards</string>
+    <string name="cartastotales">Total cards:</string>
+    <string name="empezar">Start playing</string>
+    <string name="tamano">Text Size</string>
+    <string name="reset">Reset</string>
+    <string name="rellenaCartas">Fill the cards field</string>
+    <string name="rellenaJugadores">Fill the players field</string>
+    <string name="cartasMayor">the value of cards must be equal to or greater</string>
+    <string name="jugadordinamico">Player</string>
+</resources>

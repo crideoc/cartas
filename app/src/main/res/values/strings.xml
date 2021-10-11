@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">cartas</string>
+    <string name="jugadores">Nº Jugadores</string>
+    <string name="cartas">Nº Cartas</string>
+    <string name="cartastotales">Cartas totales:</string>
+    <string name="empezar">Empezar a Jugar</string>
+    <string name="tamano">Tamaño texto</string>
+    <string name="reset">Reset</string>
+
+
+    //Errores
+    <string name="rellenaCartas">Rellena el campo cartas</string>
+    <string name="rellenaJugadores">Rellena el campo jugadores</string>
+    <string name="cartasMayor">el valor de cartas debe ser igual o mayor</string>
+    <string name="jugadordinamico">Jug.</string>
+</resources>
